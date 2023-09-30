@@ -4,6 +4,7 @@ import Education from './Education';
 import Work from './Work';
 import Programming from './Programming';
 import Project from './Project';
+import Testimonial from './Testimonial';
 
 
 
@@ -195,7 +196,16 @@ function App() {
         </div>
       </div>
 
-      
+      <div className="testimonial-part my-5">
+
+        <div className="testimonial-inner-part d-flex flex-column">
+                <span className="about-me-text">Testimonials</span>
+                <span className="why-text-sub mb-5">
+                  What my client say about me!
+                </span>
+                <Testimonial/>
+            </div>
+          </div>
     </div>
   );
 }
