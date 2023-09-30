@@ -1,0 +1,24 @@
+.company-name {
+    margin: 10px;
+    color: #F11A7B;
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-decoration: underline;
+}
+.description-position {
+    padding-left: 20px;
+    color: var(--primary-app-color);
+}
+.year-passout {
+    width: 70%;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.position {
+    padding-top: 5px;
+    color: var(--primary-app-color);
+    font-family: "Ubuntu";
+    font-size: 1.1rem;
+    font-weight: 800;
+}
