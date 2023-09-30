@@ -29,10 +29,13 @@
     }
   }
 
-
-
 .description {
     color: #000;
     font-family: "Ubuntu";
     font-weight: 700;
+}
+.name {
+    font-family: "Oswald";
+    font-weight: 100;
+    font-size: 1rem;
 }
