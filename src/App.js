@@ -5,7 +5,7 @@ import Work from './Work';
 import Programming from './Programming';
 import Project from './Project';
 import Testimonial from './Testimonial';
-
+import Contact from './Contact';
 
 
 
@@ -206,6 +206,14 @@ function App() {
                 <Testimonial/>
             </div>
           </div>
+    <div  className="contact-me-part">
+        <div className="relative-bg"> </div>
+      </div>
+      <div className="contact-inner-part d-flex flex-column">
+          <span className="about-me-text">Contact Me</span>
+          <span className="why-text-sub mb-5">Let's keep in Touch</span>
+          <Contact />
+        </div>    
     </div>
   );
 }

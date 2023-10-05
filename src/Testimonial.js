@@ -5,19 +5,19 @@ const testimonial = [
     {
         name: "Sazib",
         text:
-            "This guy is incredibly awesome, I hired him and when He delivered, I honestly ",
+            "This guy is incredibly awesome, I hired him and when He delivered,  I felt satisfy",
         star:"⭐⭐⭐⭐"
     },
     {
         name: "Shahrear",
         text:
-            "This guy is incredibly awesome, I hired him and when He delivered, I honestly ",
+            "This guy is incredibly awesome, I hired him and when He delivered,  I felt satisfy",
             star:"⭐⭐⭐⭐⭐"
     },
     {
         name: "Misu",
         text:
-            "This guy is incredibly awesome, I hired him and when He delivered, I honestly ",
+            "This guy is incredibly awesome, I hired him and when He delivered, I felt satisfy",
         star:"⭐⭐⭐⭐"
     },
 ];
